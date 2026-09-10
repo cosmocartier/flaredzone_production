@@ -28,7 +28,7 @@ export function LandingPageLoader() {
         animate={{ opacity: 0, scale: 0.80, filter: "blur(10px)" }}
         transition={{ duration: 0.5, ease: [0.4, 0, 0.2, 1] }}
       >
-        Designerdrip
+        Flaredzone
       </motion.span>
     </div>
   )
