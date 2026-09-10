@@ -160,8 +160,8 @@ export function Navigation() {
 
           <Link href="/" className="absolute left-1/2 -translate-x-1/2 z-10">
             <img
-              src="https://imagedelivery.net/JEnxpBxUTK5Xr6qf5ykeBg/126f103a-d392-4adf-181e-bbbcb10b0200/w=800"
-              alt="DESIGNERDRIP"
+              src="https://imagedelivery.net/JEnxpBxUTK5Xr6qf5ykeBg/016a6568-acd9-43ec-6548-4a7a2d22f500/w=800"
+              alt="FLAREDZONE"
               className="h-3 w-auto cursor-pointer hover:opacity-80 transition-opacity"
             />
           </Link>
