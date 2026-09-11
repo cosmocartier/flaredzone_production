@@ -2,9 +2,9 @@ import type { Metadata } from "next"
 import { AccessPageClient } from "@/components/access/access-page-client"
 
 export const metadata: Metadata = {
-  title: "Private Access — DESIGNERDRIP",
+  title: "Private Access — FLAREDZONE",
   description:
-    "Designerdrip operates as a private sourcing platform. Inventory is shared exclusively via our private line.",
+    "Flaredzone operates as a private sourcing platform. Inventory is shared exclusively via our private line.",
   robots: { index: false, follow: false },
 }
 

@@ -1,7 +1,7 @@
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "DESIGNERDRIP® | Official Distribution Program",
+  title: "FLAREDZONE® | Official Distribution Program",
 }
 
 export default function DistributorApplyLayout({

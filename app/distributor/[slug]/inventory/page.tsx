@@ -9,7 +9,7 @@ import { Suspense } from "react"
 // ─── Metadata ──────────────────────────────────────────────────────────────
 
 export const metadata: Metadata = {
-  title: "Inventory | Distributor Portal | DESIGNERDRIP",
+  title: "Inventory | Distributor Portal | FLAREDZONE",
   description: "Live product catalog. Restricted distributor access.",
 }
 

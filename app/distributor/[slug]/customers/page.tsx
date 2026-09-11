@@ -12,7 +12,7 @@ import {
 // ─── Metadata ──────────────────────────────────────────────────────────────
 
 export const metadata: Metadata = {
-  title: "Customers | Distributor Portal | DESIGNERDRIP",
+  title: "Customers | Distributor Portal | FLAREDZONE",
   description: "Private customer records. Restricted distributor access.",
 }
 

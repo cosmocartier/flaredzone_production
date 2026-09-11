@@ -4,7 +4,7 @@ import { useEffect, useState } from "react"
 import { motion } from "framer-motion"
 
 /**
- * Minimal, premium loading overlay for the Designerdrip landing page.
+ * Minimal, premium loading overlay for the Flaredzone landing page.
  *
  * The wordmark appears instantly at full scale/opacity, then immediately
  * begins a subtle scale-down + blur + fade that completes well under 600ms.
