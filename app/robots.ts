@@ -18,6 +18,6 @@ export default function robots(): MetadataRoute.Robots {
         '/*?*', // Block URL parameters
       ],
     },
-    sitemap: 'https://designerdrip.store/sitemap.xml',
+    sitemap: 'https://flaredzone.com/sitemap.xml',
   }
 }
