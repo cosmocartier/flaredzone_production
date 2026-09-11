@@ -11,8 +11,8 @@ const STYLE_TYPE_NAME = "Streetwear"
 const STYLE_TYPE_SLUG = "streetwear"
 
 export const metadata = {
-  title: "Streetwear | Designerdrip",
-  description: "Shop the Streetwear edit — the latest streetwear-style pieces from Designerdrip.",
+  title: "Streetwear | Flaredzone",
+  description: "Shop the Streetwear edit — the latest streetwear-style pieces from Flaredzone.",
 }
 
 export default async function StreetwearPage() {

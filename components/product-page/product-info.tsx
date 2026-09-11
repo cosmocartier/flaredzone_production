@@ -328,7 +328,7 @@ export function ProductInfo({
                 Discover Our Packaging Here
               </a>
               <p className="text-[11.5px] text-zinc-500 leading-relaxed">
-                Your Order Will be delivered with full packaging from the brand &amp; designerdrip packaging.
+                Your Order Will be delivered with full packaging from the brand &amp; flaredzone packaging.
               </p>
             </div>
           </div>
